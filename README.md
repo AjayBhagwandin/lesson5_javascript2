@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(06 29, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Ajay Bhagwandin)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(We learned to calculate tax brackets .)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ajaybhagwandin.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned to calcuate for single.)
+2. (I learned to calcuate for Head of household.)
+3. (I learned to the equation for taxes.)
 
